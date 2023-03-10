@@ -447,3 +447,5 @@ optional when calling methods**.
 ## Resources
 
 - [Writing Ruby Methods](https://www.rubyguides.com/2019/06/ruby-method-definition/)
+
+https://github.com/G3o-R/phase-3-methods
